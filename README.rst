@@ -30,8 +30,10 @@ DL1416 default pin connections
 
 Altenate pins can be passed into the constructor
 
+D6,D5,D4,D3,D2,D1,D0
 datapins = [19, 15, 13, 11, 7, 5, 3]
 
+A1,A0
 addresspins = [18, 16]
 
 ce = 22
