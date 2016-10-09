@@ -21,16 +21,23 @@ dl.clear()
 
 dl.writestring('HELO')
 
+Hardware Config
+===============
 
-DL1416 default pin connections:
+DL1416 default pin connections
+
 (Using BOARD pin numbers)
 
 Altenate pins can be passed into the constructor
 
 datapins = [19, 15, 13, 11, 7, 5, 3]
+
 addresspins = [18, 16]
+
 ce = 22
+
 wr = 24
+
 cu = 26
 
 
