@@ -7,7 +7,7 @@ def readme():
 
 
 setup(name='dl1416',
-      version='0.2dev',
+      version='0.21dev',
       description='DL1416 RPI.GPIO Based Driver',
       long_description=readme(),
       classifiers=[
